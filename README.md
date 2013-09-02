@@ -10,13 +10,13 @@ Much thanks to Laura Cunningham who helped me create this assignment today.
 Tasks
 -----
 
-- [ ] Download VirtualBox https://www.virtualbox.org/wiki/Downloads
-- [ ] Install VirtualBox
-- [ ] Download `.iso` for Ubuntu Server 13.04 (Raring Ringtail) http://releases.ubuntu.com/raring/
+- [X] Download VirtualBox https://www.virtualbox.org/wiki/Downloads
+- [X] Install VirtualBox
+- [X] Download `.iso` for Ubuntu Server 13.04 (Raring Ringtail) http://releases.ubuntu.com/raring/
       **NOTE: Even though you may be on a Mac, you should download the 64-bit PC (AMD64) version for running inside VirtualBox.**
       - Choose the download option under Server Install Image: [64-bit PC (AMD64) server install image](http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso)
       - A **faster** way to download the `.iso` is to use [64-bit PC (AMD64) server install image TORRENT](http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso.torrent)
-- [ ] Create a new virtual machine for Ubuntu Server 13.04 in Virtual Box
+- [X] Create a new virtual machine for Ubuntu Server 13.04 in Virtual Box
       - Name 'Stat157' and select Linux, Ubuntu 64-bit from drop down menus
       ![selecting names and drop down menu items](https://raw.github.com/lauraccunningham/homework-01/master/images/1%20creatingComputerInVirtualBox.stat157.png)
       - Make sure to be aware of your individual machine's hard drive space
