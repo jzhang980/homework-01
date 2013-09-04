@@ -32,7 +32,7 @@ Tasks
                   ![first unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/4%20doNotAcceptDefault.time1.png)
                   ![second unaccepted default](https://raw.github.com/lauraccunningham/homework-01/master/images/5%20changeDefault,%20time2.png)
 
-- [ ] Ensure [hardware-level
+- [X] Ensure [hardware-level
   virtualization](http://en.wikipedia.org/wiki/X86_virtualization)
   support is enabled in your BIOS. If you receive a warning from
   VirtualBox that "VT-x/AMD-V hardware acceleration has been enabled,
